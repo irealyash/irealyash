@@ -1,7 +1,7 @@
 # Yash Sharma
 **Computer Science Undergraduate at the University of British Columbia**
 
-[Portfolio](https://ysharma.me) | [LinkedIn](www.linkedin.com/in/yash-sharma-code) | [Email](mailto:yash5112007@gmail.com) 
+[Portfolio](https://ysharma.me)  |  [LinkedIn](www.linkedin.com/in/yash-sharma-code)  |  [Email](mailto:yash5112007@gmail.com) 
 
 ---
 
