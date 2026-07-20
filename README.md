@@ -20,7 +20,7 @@ I am a Computer Science undergraduate at the University of British Columbia with
 *   **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Tailwind CSS, Vite, and Redux Toolkit.
 *   **Databases**: PostgreSQL, MongoDB, Prisma ORM.
 *   **APIs & Integrations**: Google Gemini API, Stripe API, Socket.io, Chrome Extension APIs (Manifest V3).
-*   **Tools**: Git/GitHub, Docker, Zod, NextAuth.js, Clerk, JWT.
+*   **Tools**: Git/GitHub, Zod, NextAuth.js, Clerk, JWT.
 
 ### Current Focus
 Currently refining AI agent architectures and deepening my understanding of algorithmic optimization for high-performance systems.
