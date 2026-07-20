@@ -13,7 +13,6 @@ I am a Computer Science undergraduate at the University of British Columbia with
 *   **<a href="https://github.com/irealyash/autonomous-browser-agent" target="_blank" rel="noopener noreferrer">Autonomous Browser Agent</a>**: A Chrome extension that turns your browser into an AI-powered automation assistant using the Gemini API to navigate and execute complex tasks.
 *   **<a href="https://github.com/irealyash/unipulse-campus-network " target="_blank" rel="noopener noreferrer">UniPulse</a>**: An anonymous, campus-focused community platform for university students — join rooms, post, chat in realtime, discover events, upload your schedule, and moderate content safely.
 *   **<a href="https://github.com/irealyash/workday-schedule-automator" target="_blank" rel="noopener noreferrer">Workday Automator</a>**: An automation tool that scrapes course data and instantly generates schedules on the UBC Workday administrative platform.
-*   **<a href="https://github.com/irealyash/video-timeline-chatbox" target="_blank" rel="noopener noreferrer">Video Timeline Chatbox</a>**: A web application that enables interactive, timeline-based chat for any video content.
 
 ### Technical Stack
 
