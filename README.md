@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I am a Computer Science undergraduate at the University of British Columbia with a passion for full-stack development, AI agents, and workflow automation. My goal is to secure a software engineering internship for the January 2027 term, where I can apply my experience in building scalable software and intelligent automation tools.
+I am a Computer Science undergraduate at the University of British Columbia with a passion for full-stack development, AI agents, and workflow automation.
 
 ### Featured Projects
 
